@@ -8,7 +8,7 @@
 
 Anyone interested in responding to this RFI with feedback on our [Draft RFQ](Draft-RFQ.pdf) is encouraged to complete [this form](https://forms.gle/Qx6cG8bUJhJNTkr96). Please remember to review any artifacts in the repository as well - we'd like your feedback on everything!
 
-**Responses are due no later than MONTH DD, 2019 at noon, eastern.**
+**Responses are due no later than July 15, 2019 at noon, eastern.**
 
 We cannot commit to considering anything sent to us after the deadline above or sent via any other medium.
 
