@@ -6,6 +6,8 @@
 
 This RFQ was posted to eBuy under RFQ1391739. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-opm-mainframe-dr-plan/blob/master/RFQ-OPM-DR-Plan-Implementation.pdf), please fill out this [Q&A form](https://forms.gle/bcouxL5YxbryoayL8) no later than *September 3, 2019 at noon, eastern*.
 
+*Note: The Government's [responses to questions received](https://github.com/GSA/coe-opm-mainframe-dr-plan/blob/master/RFQ-Amendment-001-Responses-to-Q-and-a.xlsx) during the Q&A period and an updated file for [7.2 Technical Requirements](https://github.com/GSA/coe-opm-mainframe-dr-plan/blob/master/7.2-Technical-Requirements-OPM-DR-Plan-Implementation.xlsx) have been uploaded on September 6, 2019.*
+
 Anyone interested in responding to this RFQ is encouraged to complete this [Technical Response form](https://forms.gle/3uFnZTd6uoLPy9EaA) and this [Pricing Response form](https://forms.gle/WEkFk49qKNzRVXtm9). Please remember to review any artifacts in the repository as well.
 
 **Responses for the RFQ are due no later than September 9, 2019 at noon, eastern.**
